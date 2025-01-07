@@ -1,0 +1,6 @@
+@LazarB_MiniChallenge_TwoToFourEndpoints_HostAddress = http://localhost:5192
+
+GET {{LazarB_MiniChallenge_TwoToFourEndpoints_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
