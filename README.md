@@ -8,8 +8,7 @@
 
 ### Peer Review
 
-**Reviewer**
+**Reviewer** Michael Heckerman
 
 
-**Reviewer Notes**
-
+**Reviewer Notes** Add two numbers works as intended. code looks good for it as well. Asking questions works, not sure how I feel about userTime taking in anything. We didn't need to do validation so I guess its good, I know why you did it though. Its code is clean. Greater than is good. Maybe take out one of the equals. All and all its what is asked for. Good Job Dude.
